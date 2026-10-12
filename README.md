@@ -1,5 +1,7 @@
 # Grantha
 
+**Live demo:** [granhtha.vercel.app/login](https://granhtha.vercel.app/login) — see [Demo sign-in](#demo-sign-in) for credentials.
+
 **ग्रन्थ** (grantha) is Sanskrit for a treatise: an authored, bound text. Grantha is a Wayam AI accelerator that writes an appliance maker's technical literature from the product's own engineering record, then checks the draft against that record rule by rule.
 
 ## What it is
